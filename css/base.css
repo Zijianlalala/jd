@@ -1,4 +1,9 @@
 /* 版心的公共类 */
+img {
+    /* 解决图片底部有缝隙的问题 */
+    /* display: block; */
+    vertical-align: top;
+}
 .w {
     /* 京东的版心是1190 */
     width: 1190px;
